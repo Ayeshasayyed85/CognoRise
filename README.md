@@ -22,12 +22,13 @@ Software used : Figma
 
 This repository contains the Figma design files for the Unity Construction business card.
 
-## Figma Link
+### Figma Link
 [Click here to view the design on Figma](https://www.figma.com/design/Sbw9nOQ0yMIwX8S3kBlKGj/unity_construction_card?t=BM5RcS2lHRLWMQsf-1)
 
-## LinkedIn Post
+### LinkedIn Post
 [Check out the LinkedIn post about the business card design](https://www.linkedin.com/posts/ayesha-sayyed-10aa71117_businesscarddesign-cognoriseinfotech-internship-activity-7203829266961121280-ANJI?utm_source=share&utm_medium=member_android)
 
-![Unity Construction Business Card](image_url_here)
+![ Business Card front view](/images/front.png)
+![ Business Card back view](/images/back.jpg)
 
 
