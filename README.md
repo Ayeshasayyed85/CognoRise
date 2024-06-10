@@ -43,7 +43,7 @@ This repository contains the Figma design files for Task 3, which is a product p
 ### LinkedIn Post
 [Check out the LinkedIn post about Task 3 product page design](https://www.linkedin.com/posts/ayesha-sayyed-10aa71117_cognoriseinfotech-internship-ecommerce-activity-7205509294207721472-HTuy?utm_source=share&utm_medium=member_android)
 
-![Product Page Design](image/Product_Page.png)
+![Product Page Design](/image/Product_Page.png)
 
 
 
