@@ -1,7 +1,7 @@
 # CognoRise-Infotech
 CognoRise Infotech internship projects 
 
-## Business Card
+## Task 1:Business Card
 
 This repository contains the Figma design files for the Unity Construction business card.
 
@@ -14,9 +14,8 @@ This repository contains the Figma design files for the Unity Construction busin
 ![ Business Card front view](/images/front.png)
 ![ Business Card back view](/images/back.png)
 
-## Product Page
+## Task 2 :Product Page
 
-# Task 3: Product Page Design
 
 This repository contains the Figma design files for Task 3, which is a product page design.
 
@@ -28,9 +27,8 @@ This repository contains the Figma design files for Task 3, which is a product p
 
 ![Product Page Design](/images/Product_Page.png)
 
-## Info Graphics 
 
-# Infographic:
+## Task 3 :Info Graphics 
 
 This repository contains an infographic designed for [purpose or topic].
 
