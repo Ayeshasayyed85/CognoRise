@@ -18,3 +18,4 @@ Layout : A balanced and intuitive layout that make the information easily access
 
 This project was a fantastic learning experience,and I'm thrilled with how it turned out.
 Software used : Figma
+## Business Card
