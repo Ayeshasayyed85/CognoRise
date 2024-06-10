@@ -29,6 +29,6 @@ This repository contains the Figma design files for the Unity Construction busin
 [Check out the LinkedIn post about the business card design](https://www.linkedin.com/posts/ayesha-sayyed-10aa71117_businesscarddesign-cognoriseinfotech-internship-activity-7203829266961121280-ANJI?utm_source=share&utm_medium=member_android)
 
 ![ Business Card front view](/images/front.png)
-![ Business Card back view](/images/back.jpg)
+![ Business Card back view](/images/back.png)
 
 
