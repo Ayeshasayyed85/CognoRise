@@ -30,7 +30,7 @@ This repository contains the Figma design files for Task 3, which is a product p
 
 ## Info Graphics 
 
-# Infographic: [Title]
+# Infographic:
 
 This repository contains an infographic designed for [purpose or topic].
 
